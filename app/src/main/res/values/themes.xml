@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.CoinKamai" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#E8B84B</item>
+        <item name="colorPrimaryDark">#0E1626</item>
+        <item name="colorAccent">#3FA796</item>
+        <item name="android:windowBackground">#0E1626</item>
+        <item name="android:statusBarColor">#0E1626</item>
+    </style>
+</resources>
